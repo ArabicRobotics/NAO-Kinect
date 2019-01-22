@@ -8,9 +8,9 @@ Control NAO using Kinect Device ( using NAO.net, Windows Application and Kinect 
 
 
 
-Scenario 
+## Scenario 
 
-1- Go way
+### 1- Go way
 
 Main application: Main control and switcher.
 Kinect Catcher: Catch Kinect Joints and face rotation
@@ -18,7 +18,7 @@ NAO.NET get position and move NAO to the current Values
 
 
 
-2- Back way
+### 2- Back way
 
 NAO.NET back values to Controller Windows Application 
 Return current video position to windows
