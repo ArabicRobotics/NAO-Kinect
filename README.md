@@ -31,7 +31,7 @@ Control NAO using Kinect Device ( using NAO.net, Windows Application and Kinect 
 ![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/KinectValues.png?raw=true)
 
 
-### 2- Back way
+
 
 #### Excecution Way using
 ##### A- Get position 
@@ -50,8 +50,9 @@ https://www.youtube.com/watch?v=oOyy-2XyT-c
 https://www.arabicrobotics.com/wp/
 
 
+### 2- Back way
 
-back values to Controller Windows Application 
+Back values to Controller Windows Application 
 Return current video position to windows
 Display video to android device.
 
