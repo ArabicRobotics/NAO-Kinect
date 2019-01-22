@@ -53,8 +53,6 @@ https://www.arabicrobotics.com/wp/
 ### 2- Back way
 
 Back values to Controller Windows Application 
-Return current video position to windows
-Display video to android device.
-
+Return current video position to Windows Application.
 ![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/Kinect-Robot.png?raw=true)
 
