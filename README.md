@@ -1,4 +1,5 @@
 # NAO-Kinect
+![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/logo3.png?raw=true)
 Control NAO using Kinect Device ( using NAO.net, Windows Application and Kinect DLL)
 
 ![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/NAOKinectFlow.png?raw=true)
@@ -36,6 +37,7 @@ Control NAO using Kinect Device ( using NAO.net, Windows Application and Kinect 
 ##### B- move NAO to the current Values
 
 ## Using NAO.NET...( Using .NET to control NAOqi Robots)
+![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/{8D430CE4-CCCA-4B67-AF45-5A7E8BEBDA84}.jpg?raw=true)
 
 #### Execution Result Image : 
 ![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/NAO.NETDemo.png?raw=true)
