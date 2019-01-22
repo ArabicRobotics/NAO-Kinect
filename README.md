@@ -6,13 +6,13 @@ Control NAO using Kinect Device ( using NAO.net, Windows Application and Kinect 
 
 ## Scenario 
 
-1- Capture Joints Data 
-2- Display joints data into Windows form Application 
-3- Convert and send movements to Windows Application 
-4-  Send Movements to NAOqi Robot 
-5- Apply Movements on physical Robot example (NAO Robot) Version 4/5
-5- Send Back Robot Moves (FW)
-6- Display NAOqi Robot Camera in Windows Application. (FW)
+1. Capture Joints Data 
+2. Display joints data into Windows form Application 
+3. Convert and send movements to Windows Application 
+4. Send Movements to NAOqi Robot 
+5. Apply Movements on physical Robot example (NAO Robot) Version 4/5
+5. Send Back Robot Moves (FW)
+6. Display NAOqi Robot Camera in Windows Application. (FW)
 
 
 ---------     Main Steps     ----------
