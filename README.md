@@ -35,7 +35,7 @@ Control NAO using Kinect Device ( using NAO.net, Windows Application and Kinect 
 
 #### Excecution Way using
 ##### A- Get position 
-##### B- move NAO to the current Values
+##### B- Move NAO to the current Values
 
 ## Using NAO.NET...( Using .NET to control NAOqi Robots)
 ![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/{8D430CE4-CCCA-4B67-AF45-5A7E8BEBDA84}.jpg?raw=true)
