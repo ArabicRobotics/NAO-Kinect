@@ -18,14 +18,15 @@ Control NAO using Kinect Device ( using NAO.net, Windows Application and Kinect 
 ---------     Main Steps     ----------
 
 ### 1- Go way
-Main application: Main control and switcher.
 
-![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/KinectValues.png?raw=true)
-
-Kinect Catcher: Catch Kinect Joints and face rotation
-
+1- Kinect Catcher: Catch Kinect Joints and face rotation
 
 ![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/tumblr_o5aco3jmvd1qza1qzo1_540.gif?raw=true)
+
+
+2- Main application: Main control and switcher.
+
+![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/KinectValues.png?raw=true)
 
 
 ### 2- Back way
