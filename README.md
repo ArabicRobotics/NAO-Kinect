@@ -75,9 +75,12 @@ Return current video position to Windows Application.
 ![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/Kinect-Robot.png?raw=true)
 
 
+
 ##### Resources:
-* NAO.NET V1
+
+1. 
 ![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/{8D430CE4-CCCA-4B67-AF45-5A7E8BEBDA84}.jpg?raw=true)
+* NAO.NET V1
 https://github.com/ArabicRobotics/Python-Execution-dotnet-Wrapper
 
 
