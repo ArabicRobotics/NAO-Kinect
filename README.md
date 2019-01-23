@@ -98,6 +98,6 @@ Return current video position to Windows Application.
 https://github.com/ArabicRobotics/Python-Execution-dotnet-Wrapper
 
 -----------------------------------------------------------------------
-# Developed By 
+# Details and contact.
 # ArabicRobotics.com http://www.ArabicRobotics.com
 
