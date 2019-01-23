@@ -68,18 +68,6 @@ B. Main application: Main control and switcher.
 ##### A- Get position 
 ##### B- Move NAO to the current Values
 
-## Using NAO.NET...( Using .NET to control NAOqi Robots)
-![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/{8D430CE4-CCCA-4B67-AF45-5A7E8BEBDA84}.jpg?raw=true)
-
-#### Execution Result Image : 
-![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/NAO.NETDemo.png?raw=true)
-
-#### URL Execution Example :
-https://www.youtube.com/watch?v=oOyy-2XyT-c
-
-#### Documentation : 
-https://www.arabicrobotics.com/wp/
-
 
 ### 2- Back way
 
@@ -92,3 +80,9 @@ Return current video position to Windows Application.
 
 * Baku.libqiDotNet: 
 https://github.com/malaybaku/BakuLibQiDotNet
+
+* NAO.NET V1
+https://github.com/ArabicRobotics/Python-Execution-dotnet-Wrapper
+
+
+
