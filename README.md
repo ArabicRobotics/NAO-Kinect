@@ -25,7 +25,7 @@ Control NAO using Kinect Device ( using NAO.net, Windows Application and Kinect 
 4. Baku.libqiDotNet:
 * Type: Windows DLL
 * Rule: dotnet NAoqi Interface.
-Description: Unofficial .NET wrapper library for "qi Framework", the messaging library created by Aldebaran Robotics
+* Description: Unofficial .NET wrapper library for "qi Framework", the messaging library created by Aldebaran Robotics
 
 
 
