@@ -66,7 +66,7 @@ B. Main application: Main control and switcher.
 
 #### Excecution way using
 ##### A- Get position 
-##### B- Move NAO to the current Values
+##### B- Move NAO to the current values
 
 
 ### 2- Back way
