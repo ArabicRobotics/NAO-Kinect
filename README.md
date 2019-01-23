@@ -32,17 +32,18 @@ Control NAO using Kinect Device ( using NAO.net, Windows Application and Kinect 
 #### Hardware Needed 
 1. Kinect (V2 Recommended ) https://developer.microsoft.com/en-us/windows/kinect
 2. Windows Computer with USB3 Port
-3. NAOqi Robot / Virtual Robot (Choregraphe )
+3. NAOqi Robot ( optional ) : https://www.softbankrobotics.com/emea/en
 
 #### Software : 
-
 * Kinect SDK : https://download.microsoft.com/download/F/2/D/F2D1012E-3BC6-49C5-B8B3-5ACFF58AF7B8/KinectSDK-v2.0_1409-Setup.exe
 
-* NAOqi SDK : "pynaoqi-2.1.4.13.win32.exe"
+* NAOqi SDK : "pynaoqi-2.1.4.13.win32.exe" (Recommended version )
 
-* Choregraphe( Recommended ) : "choregraphe-suite-2.1.4.13-win32-setup.exe"
+ Download Page : 
 
-* NAO Robot ( optional ) : https://www.softbankrobotics.com/emea/en
+* Choregraphe : "choregraphe-suite-2.1.4.13-win32-setup.exe"( Recommended version )
+
+Download Page :  https://www.arabicrobotics.com/wp/?page_id=912
 
 
 * NAOqi SDK Documetation :https://www.arabicrobotics.com/Aldebaran/aldeb-doc-2.5.7.1/
@@ -60,7 +61,7 @@ Control NAO using Kinect Device ( using NAO.net, Windows Application and Kinect 
 6. Display NAOqi Robot Camera in Windows Application. (FW)
 
 
-####   ---------     Main    Steps     ----------
+####   ---------     Main  Steps     ----------
 
 ### 1- Catch Joints..
 
