@@ -28,7 +28,6 @@ Control NAO using Kinect Device ( using NAO.net, Windows Application and Kinect 
 * Description: Unofficial .NET wrapper library for "qi Framework", the messaging library created by Aldebaran Robotics
 
 
-
 ## Hardware Needed 
 1. Kinect (V2 Recommended ) 
 2. Windows Computer with USB3 Port
@@ -48,9 +47,9 @@ Control NAO using Kinect Device ( using NAO.net, Windows Application and Kinect 
 6. Display NAOqi Robot Camera in Windows Application. (FW)
 
 
-####   ---------     Main        Steps     ----------
+####   ---------     Main    Steps     ----------
 
-### 1- Go way
+### 1- Catch Joints..
 
 A. Kinect Catcher: Catch Kinect Joints and face rotation
 
@@ -69,7 +68,7 @@ B. Main application: Main control and switcher.
 ##### B- Move NAO to the current values
 
 
-### 2- Back way
+### 2- Display Robot and Human Moves.
 
 Back values to Controller Windows Application 
 Return current video position to Windows Application.
@@ -78,11 +77,11 @@ Return current video position to Windows Application.
 
 ##### Resources:
 
-* Baku.libqiDotNet: 
-https://github.com/malaybaku/BakuLibQiDotNet
-
 * NAO.NET V1
 https://github.com/ArabicRobotics/Python-Execution-dotnet-Wrapper
 
+
+* Baku.libqiDotNet: 
+https://github.com/malaybaku/BakuLibQiDotNet
 
 
