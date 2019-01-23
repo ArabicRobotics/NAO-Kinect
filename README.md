@@ -93,11 +93,11 @@ Return current video position to Windows Application.
 
 
 
-
-###### External references  : 
-###### Development Projects:
+###### Related projects:
 * NAO.NET V1
 https://github.com/ArabicRobotics/Python-Execution-dotnet-Wrapper
 
-* Baku.libqiDotNet: 
-https://github.com/malaybaku/BakuLibQiDotNet
+-----------------------------------------------------------------------
+# Developed By 
+# ArabicRobotics.com http://www.ArabicRobotics.com
+
