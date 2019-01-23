@@ -5,6 +5,36 @@
 Control NAO using Kinect Device ( using NAO.net, Windows Application and Kinect DLL)
 
 ![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/NAOKinectFlow.png?raw=true)
+## Projects
+1. Main
+* Type: Windows Application 
+* Rule: User Interface.
+* Description: Project which Display Kinect Joints values and Robot data. and interact with user actions.
+
+2. dllKinect
+* Type: Windows DLL 
+* Rule: Kinect - Windows Interface
+* Description: Project which catch Required Events and live data values  from Kinect.
+
+3. DllNAO.netV2
+* Type: Windows DLL
+* Rule: NAOqi - Windows Interface
+* Description: Control NAOqi-Based Robots using C#, it is Improvement for original NAO.NET project listed down.
+
+4. Baku.libqiDotNet:
+* Type: Windows DLL
+* Rule: dotnet NAoqi Interface.
+Description: Unofficial .NET wrapper library for "qi Framework", the messaging library created by Aldebaran Robotics
+
+
+
+## Hardware Needed 
+1. Kinect (V2 Recommended ) 
+2. Windows Computer with USB3 Port
+3. NAOqi Robot / Virtual Robot (Choregraphe )
+
+
+
 
 ## Scenario 
 
@@ -56,3 +86,8 @@ Back values to Controller Windows Application
 Return current video position to Windows Application.
 ![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/Kinect-Robot.png?raw=true)
 
+
+##### Resources:
+
+* Baku.libqiDotNet: 
+https://github.com/malaybaku/BakuLibQiDotNet
