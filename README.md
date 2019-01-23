@@ -48,7 +48,7 @@ Description: Unofficial .NET wrapper library for "qi Framework", the messaging l
 6. Display NAOqi Robot Camera in Windows Application. (FW)
 
 
-#### ---------     Main Steps     ----------
+####   ---------     Main        Steps     ----------
 
 ### 1- Go way
 
@@ -64,7 +64,7 @@ B. Main application: Main control and switcher.
 
 
 
-#### Excecution Way using
+#### Excecution way using
 ##### A- Get position 
 ##### B- Move NAO to the current Values
 
