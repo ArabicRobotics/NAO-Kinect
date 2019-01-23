@@ -27,17 +27,30 @@ Control NAO using Kinect Device ( using NAO.net, Windows Application and Kinect 
 * Rule: dotnet NAoqi Interface.
 * Description: Unofficial .NET wrapper library for "qi Framework", the messaging library created by Aldebaran Robotics
 
+### Prerequisites: 
 
-## Hardware Needed 
-1. Kinect (V2 Recommended ) 
+#### Hardware Needed 
+1. Kinect (V2 Recommended ) https://developer.microsoft.com/en-us/windows/kinect
 2. Windows Computer with USB3 Port
 3. NAOqi Robot / Virtual Robot (Choregraphe )
+
+#### Software : 
+
+* Kinect SDK : https://download.microsoft.com/download/F/2/D/F2D1012E-3BC6-49C5-B8B3-5ACFF58AF7B8/KinectSDK-v2.0_1409-Setup.exe
+
+* NAOqi SDK : "pynaoqi-2.1.4.13.win32.exe"
+
+* Choregraphe( Recommended ) : "choregraphe-suite-2.1.4.13-win32-setup.exe"
+
+* NAO Robot ( optional ) : https://www.softbankrobotics.com/emea/en
+
+
+* NAOqi SDK Documetation :https://www.arabicrobotics.com/Aldebaran/aldeb-doc-2.5.7.1/
 
 
 
 
 ## Scenario 
-
 1. Capture Joints Data 
 2. Display joints data into Windows form Application 
 3. Convert and send movements to Windows Application 
@@ -76,15 +89,14 @@ Return current video position to Windows Application.
 
 
 
-##### Resources:
 
-1. 
-![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/{8D430CE4-CCCA-4B67-AF45-5A7E8BEBDA84}.jpg?raw=true)
+
+
+
+###### External references  : 
+###### Development Projects:
 * NAO.NET V1
 https://github.com/ArabicRobotics/Python-Execution-dotnet-Wrapper
 
-
 * Baku.libqiDotNet: 
 https://github.com/malaybaku/BakuLibQiDotNet
-
-
