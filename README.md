@@ -5,6 +5,7 @@
 Control NAO using Kinect Device ( using NAO.net, Windows Application and Kinect DLL)
 
 ![example output](https://github.com/ArabicRobotics/NAO-Kinect/blob/master/NAOKinectFlow.png?raw=true)
+
 ## Projects
 1. Main
 * Type: Windows Application 
@@ -47,7 +48,7 @@ Description: Unofficial .NET wrapper library for "qi Framework", the messaging l
 6. Display NAOqi Robot Camera in Windows Application. (FW)
 
 
----------     Main Steps     ----------
+#### ---------     Main Steps     ----------
 
 ### 1- Go way
 
