@@ -1,0 +1,7 @@
+C:\Users\Tareq\Documents\Kinect_netduino\MainProject\MotorController\bin\Debug\MotorController.dll
+C:\Users\Tareq\Documents\Kinect_netduino\MainProject\MotorController\bin\Debug\MotorController.pdb
+C:\Users\Tareq\Documents\Kinect_netduino\MainProject\MotorController\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Tareq\Documents\Kinect_netduino\MainProject\MotorController\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Tareq\Documents\Kinect_netduino\MainProject\MotorController\obj\Debug\MotorController.dll
+C:\Users\Tareq\Documents\Kinect_netduino\MainProject\MotorController\obj\Debug\MotorController.pdb
+C:\Users\Tareq\Documents\Kinect_netduino\MainProject\MotorController\obj\Debug\MotorController.csprojResolveAssemblyReference.cache

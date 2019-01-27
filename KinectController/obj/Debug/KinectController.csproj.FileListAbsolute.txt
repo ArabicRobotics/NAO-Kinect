@@ -1,0 +1,2 @@
+C:\Users\Tareq\Documents\NAOKinectControl\KinectController\obj\Debug\MotorController.dll
+C:\Users\Tareq\Documents\NAOKinectControl\KinectController\obj\Debug\MotorController.pdb
