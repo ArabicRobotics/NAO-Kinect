@@ -1,0 +1,13 @@
+C:\Users\Tareq\documents\NAOKinectControl\KinectCatcher\bin\Debug\KinectCatcher.dll.config
+C:\Users\Tareq\documents\NAOKinectControl\KinectCatcher\bin\Debug\KinectCatcher.dll
+C:\Users\Tareq\documents\NAOKinectControl\KinectCatcher\bin\Debug\KinectCatcher.pdb
+C:\Users\Tareq\documents\NAOKinectControl\KinectCatcher\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Tareq\documents\NAOKinectControl\KinectCatcher\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Tareq\documents\NAOKinectControl\KinectCatcher\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Tareq\documents\NAOKinectControl\KinectCatcher\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Tareq\documents\NAOKinectControl\KinectCatcher\obj\Debug\KinectCatcher.Form1.resources
+C:\Users\Tareq\documents\NAOKinectControl\KinectCatcher\obj\Debug\KinectCatcher.Properties.Resources.resources
+C:\Users\Tareq\documents\NAOKinectControl\KinectCatcher\obj\Debug\dllKinectCatcher.csproj.GenerateResource.Cache
+C:\Users\Tareq\documents\NAOKinectControl\KinectCatcher\obj\Debug\KinectCatcher.dll
+C:\Users\Tareq\documents\NAOKinectControl\KinectCatcher\obj\Debug\KinectCatcher.pdb
+C:\Users\Tareq\documents\NAOKinectControl\KinectCatcher\obj\Debug\dllKinectCatcher.csprojResolveAssemblyReference.cache
